@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AtanasVekiev
-- 👀 I’m interested in CAD Automation, Machine Learning, Deep learning
-- 🌱 I’m currently learning C# and Python
-- 💞️ I’m looking to collaborate on CAD Automation projects
+- 👀 I’m AI and Web Development enthusiast
+- 🌱 I’m currently learning Python
 - 📫 How to reach me email:atanasvekiev16@gmail.com
 
 
