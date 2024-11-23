@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AtanasVekiev
 - 👀 I’m AI and Web Development enthusiast
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning HTML, CSS, JavaScript & Python
 - 📫 How to reach me email:atanasvekiev16@gmail.com
 
 
